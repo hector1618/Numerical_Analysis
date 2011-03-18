@@ -1,0 +1,24 @@
+This depository contains the program I wrote in MatLab for following basic numerical analysis methods.
+
+1) Bisection method - For finding the root of given function in given domain
+2) Euler's method - For calculating value of derivative  at some particular point
+3) Successive Over Relaxation (SOR) method - For solving the system of linear equations
+4) Adam-Moulton's method(Adam) - For calculating value of f(x) at given x when ode of 1st order is given.
+5) Gauss_elimination method - For solving system of linear equations.
+6) Gauss_elimination_pivoting - Improved version of Gauss_elimination
+7) Gauss-Legendre formula - For calculating integration of a given function analytically.
+8) Gauss-Siedel - For solving system of linear equations.
+9) Jacobi's method - For solving Jacobi's method
+10) Milen's method - For calculating value of f(x) at given x when ode of 1st order is given.
+11) Power Method -  For finding the largest eigen value by power method
+12) Regula_Falsi Method - For finding the root of given function in given range.
+13) Runge_Kutta Method - For calculating value of f(x) at given x when ode of 1st order is given.
+14) Simplex Method - Simplex method used in optimisation problems
+15) Simpson1by3 Method - To find finite integral of given function analytically.
+16) Simpson3by8 Method - To find finite integral of given function analytically.
+17) Trapezodial Method - To find finite integral of given function analytically.
+
+
+I am not able to provide any documentation but I put comments everywhere possible and hence programs are pretty much self explanatory.
+
+I don't work anymore in MatLab so will not be able to assist you in this regard.
